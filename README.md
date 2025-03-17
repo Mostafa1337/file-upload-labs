@@ -33,20 +33,20 @@ Welcome to **Web Security Labs**, a collection of hands-on labs designed to simu
 
 ## 🛠️ Setup Instructions  
 
-### 1⃣ Clone the Repository  
+### 1 Clone the Repository  
 ```sh
 git clone https://github.com/Mostafa1337/file-upload-labs.git
 cd file-upload-labs
 ```
 
-### 2⃣ Set Up File Uploads  
+### 2 Set Up File Uploads  
 Ensure the `uploads/` directory exists and is writable:  
 ```sh
 mkdir uploads
 chmod 777 uploads
 ```
 
-### 3⃣ Start the Local Server  
+### 3 Start the Local Server  
 Run the following command inside the project directory:  
 ```sh
 php -S localhost:8000
