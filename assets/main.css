@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 20px;
+}
+h1 {
+    color: white;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+.section {
+    margin: 20px 0;
+}
+.section a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+.easy a {
+    color: #00FF00;
+}
+.easy a:hover {
+    text-decoration: underline;
+}
+.med a {
+    color: #FFFF00; /* Yellow for medium difficulty */
+}
+.med a:hover {
+    text-decoration: underline;
+}
+.hard a {
+    color: red;
+}
+.hard a:hover {
+    text-decoration: underline;
+}
+hr {
+    border: 1px solid #444;
+    margin: 20px 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.credits {
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: #00FFFF; /* Light blue */
+}
