@@ -42,7 +42,6 @@ cd file-upload-labs
 ### 2 Set Up File Uploads  
 Ensure the `uploads/` directory exists and is writable:  
 ```sh
-mkdir uploads
 chmod 777 uploads
 ```
 
