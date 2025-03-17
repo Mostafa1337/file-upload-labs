@@ -13,7 +13,7 @@ Welcome to **Web Security Labs**, a collection of hands-on labs designed to simu
 ## 💂️ Project Structure  
 
 ```
-💂️ security-labs
+💂️ file-upload-labs
  ├── 📂 labs             # Individual file upload vulnerability labs
  │   ├── 📂 lab1         # Basic file upload vulnerability
  │   ├── 📂 lab2         # Content-Type restriction bypass
